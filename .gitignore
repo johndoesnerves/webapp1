@@ -1,0 +1,5 @@
+# Node modules (もし使用する場合)
+node_modules/
+
+# その他の不要なファイル
+.DS_Store
